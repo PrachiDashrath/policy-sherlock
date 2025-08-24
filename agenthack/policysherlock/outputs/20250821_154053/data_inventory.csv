@@ -1,0 +1,13 @@
+page,url,forms,inputs,cookies,trackers,ai_summary
+Portia,https://www.portialabs.ai/?ref=producthunt,0,0,No,3,"### Forms
+
+The HTML page includes a form with the following fields:
+- `email` field for email input.
+- `submit_button` button to submit the form.
+
+```html
+<form action=""/action_page.php"">
+    <input t","Failed to fetch Portia data, status: 404"
+Chatgpt,https://chatgpt.com,0,0,No,0,"It appears that there was an issue fetching the webpage due to a 403 error. However, I can still provide you with general analysis of common components on a typical web page:
+
+1. Forms: Look for field","Failed to fetch Portia data, status: 404"

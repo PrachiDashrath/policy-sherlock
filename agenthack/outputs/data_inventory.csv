@@ -1,0 +1,6 @@
+page,url,forms,inputs,cookies,trackers,ai_summary
+Github,https://github.com/,5,13,Yes,58,"The provided HTML is a basic structure for an HTML document, but it does not contain any content beyond the header and styles. It doesn't include forms, inputs, cookies banners, trackers, or potential"
+Wikipedia,https://www.wikipedia.org/,1,3,No,2,"### HTML Page Analysis
+
+#### Forms:
+The HTML page includes forms but no explicit form submissions or data entry fields. It appears to be a static webpage with embedded CSS styles, JavaScript (primaril"

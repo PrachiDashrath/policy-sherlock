@@ -1,0 +1,14 @@
+streamlit>=1.36
+rich>=13.7
+requests>=2.31
+beautifulsoup4>=4.12
+pdfplumber>=0.11
+python-docx>=1.1
+tqdm>=4.66
+scrapy>=2.10
+scrapyd-client>=1.2
+PyPDF2>=3.0
+pandas>=2.0
+ollama>=0.5.1
+numpy>=1.24
+scrapyd==1.6.0
